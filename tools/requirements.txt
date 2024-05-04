@@ -167,7 +167,7 @@ tldextract==3.1.0; python_version >= "3.6" and python_version < "4.0"
 toml==0.10.2; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.3.0" and python_version >= "3.6" or python_full_version >= "3.5.0" and python_version >= "3.6" or python_version == "3.6" and python_full_version < "3.0.0" or python_version > "3.6" and python_full_version < "3.0.0" or python_version == "3.6" and python_full_version >= "3.3.0" or python_version > "3.6" and python_full_version >= "3.3.0" or python_version >= "3.6" and python_full_version < "3.0.0" and python_version < "4.0" or python_version >= "3.6" and python_version < "4.0" and python_full_version >= "3.3.0"
 tomlkit==0.7.2; python_version >= "3.6" and python_full_version < "3.0.0" and python_version < "4.0" or python_version >= "3.6" and python_version < "4.0" and python_full_version >= "3.5.0"
 tox==3.23.1; python_version >= "3.6" and python_full_version < "3.0.0" or python_version >= "3.6" and python_full_version >= "3.5.0"
-tqdm==4.61.0; python_version >= "3.6" and python_full_version < "3.0.0" or python_version >= "3.6" and python_full_version >= "3.4.0"
+tqdm==4.66.3; python_version >= "3.6" and python_full_version < "3.0.0" or python_version >= "3.6" and python_full_version >= "3.4.0"
 traitlets==4.3.3
 twine==3.3.0; python_version >= "3.6"
 typed-ast==1.4.3; python_version >= "3.6" or implementation_name == "cpython" and python_version < "3.8" and python_version >= "3.6"
